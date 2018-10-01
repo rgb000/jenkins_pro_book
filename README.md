@@ -1,4 +1,4 @@
 # jenkins_pro_book
 Learning jenkins
 
-First job test 6
+First job test 7
