@@ -8,7 +8,6 @@ pipeline {
     stages {
         stage('build') { 
             steps {
-                sh 'mvn --version'
                 sh 'pwd'
 		sh 'ls -l'
             }
