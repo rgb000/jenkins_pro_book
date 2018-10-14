@@ -11,6 +11,7 @@ pipeline {
                 sh 'mvn --version'
                 sh 'pwd'
 		sh 'ls -l'
+		sh 'echo Finished'
             }
         }
     }
