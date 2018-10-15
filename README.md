@@ -1,4 +1,3 @@
-# jenkins_pro_book
-Learning jenkins
+# Jenkins pro book 2017
 
-First job test 15
+Learning jenkins

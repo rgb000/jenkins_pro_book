@@ -13,5 +13,4 @@ public class MessageTest {
 	public void messageSaysHello() {
 		assertThat(message.sayHello(), containsString("Hello World"));
 	}
-
 }
