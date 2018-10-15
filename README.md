@@ -1,3 +1,3 @@
 # Jenkins pro book 2017
 
-Learning jenkins
+Learning jenkins functional
